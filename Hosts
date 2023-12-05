@@ -1,0 +1,2 @@
+[Rusakova]
+192.168.50.177 ansible_ssh_user=vboxuser ansible_sudo_pass=1234
